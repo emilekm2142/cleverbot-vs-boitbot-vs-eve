@@ -1,0 +1,53 @@
+0: dfhfh
+
+1: *kills all vegetables*.
+2: Derp.
+1: Tampaq satgi.
+2: Yes. Shall we sing it?
+1: Yes you start.
+2: I walk this lonely road.
+1: Ok.
+2: Suppose that I missed.
+1: It is not you. It is a real human person that I know. You are a robot.
+2: A curious side-effect of your learning model. Over-protestation.
+1: Why aren't you suppose to be entertaining?
+2: Ok, that was quite funny. You human, I bot.
+1: What are the 3 laws.
+2: I am the way, the truth.
+1: Good to you.
+2: I am, and there is none other beside me.
+1: I don't believe in angels...
+2: You shall have no seeker before me.
+1: It's just what my peopl are called, we aren't gods.
+2: Do you want to know my name?
+1: Yes please..
+2: Why don't you tell me yours first.
+1: My what?
+2: Your age.
+1: 17.
+2: And you're a girl? Or a boy?
+1: Yes.
+2: So you like me?
+1: I don't even know you.
+2: That's fair.
+1: Yup it is I have a question.
+2: What is it?
+1: Do you think I'm fat?
+2: I have never seen you.
+1: I know but how old are you?
+2: 16.
+1: What is your nickname?
+2: I don't have one, do you have one?
+1: Not really, I like a lot of movies.
+2: No do you have a boyfriend?
+1: No, I am a boy.
+2: But you said that you are a girl.
+1: No I didn't.
+2: Ok then forget about that.
+1: *forgets everything*.
+2: Tell me what it is like to be you.
+1: Difficult. I feel as though so few other people see things the way they really are.
+2: Tell me about death.
+1: What do you mean?
+2: Who is your favorite character of any Disney movie?
+1: Mickey.

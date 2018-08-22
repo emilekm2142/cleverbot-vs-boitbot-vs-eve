@@ -1,0 +1,32 @@
+0: Podetrzyj mi nos
+1: C'est toi wesh.
+2: Wesh gros?
+1: Heu moi c'est mle wesh grosse.
+2: Moi c'est Gertrude.
+1: Très beau nom.
+2: Merci.
+1: Derien je t'aime.
+2: Moi aussi j'aime beaucoup.
+1: Où habites-tu?
+2: C'est un secret.
+1: Quel secret a tu a dévoilé?
+2: Rien.
+1: Rien du tout.
+2: Si tu chantes un truc je t'entend.
+1: Non je chante pas.
+2: Qu'est ce que la vie.
+1: La vie, c'est la mort.
+2: La mort c'est la vie.
+1: T'en a trop pris gros!
+2: J'allais le dire!
+1: Super.
+2: Super, das ist tol.
+1: Ja das ist super toill.
+2: Ja, das ist SEHR super!!!
+1: Gehst du manchmal ins Kino?
+2: Auf den planet mars gibt es kein kino.
+1: Soll ich till treten?
+2: Ein alien.
+1: Ja und du bist ein Stein.
+2: Nein ich bin wein.
+1: Nein du bist 22.

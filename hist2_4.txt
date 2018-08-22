@@ -1,0 +1,32 @@
+0: Jeseem filozofem
+1: Nie , astronautom.
+2: Ja tez nie.
+1: Fajnie.
+2: Fajnieże fajnie.
+1: Bardzo fajnie.
+2: Bardzo bardzo.
+1: Bardzo, bardzo, bardzo.
+2: Bardzo bardzo bardzo bardzo bardzo bardzo.
+1: Czemu?
+2: Ja Ciebie też.
+1: A 
+2: Pa 
+1: Cz
+2: Pa
+1: Ch
+2: Aw
+1: Cz
+2: Ah
+1: Roz
+2: Ga
+1: Ta
+2: Ja 
+1: Tak
+2: To
+1: No
+2: Al
+1: Pa
+2: Cz
+1: 13 
+2: Ko
+1: Tak

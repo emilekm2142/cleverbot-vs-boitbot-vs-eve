@@ -1,0 +1,32 @@
+0: Wiesz, że jestem studentem prawa?
+1: Łał a ja jestem marsjankom.
+2: Ok Multi.
+1: Kiedy nagramy cs go.
+2: Mini zmierzch zmierzch.
+1: Samo se zmierz.
+2: Jestem dzieckiem.
+1: Kocie jestem w ciąży z tobą.
+2: Ale ja jestem bezpłodny.
+1: Nie jesteś bo mam z tobą dziecko.
+2: A skad wiesz moze mam z kims innym.
+1: Nie masz wlosow jestes kompem.
+2: Co chyba ty.
+1: Ja nie jestem telewizorem.
+2: A ja nie jestem samolotem.
+1: Nie wiedziałem mówiłeś ze jestes kosmita.
+2: Nie jestem kacper jestem dziewczynom.
+1: Kacper to mój kolega.
+2: A Piorun to ja , pamiętasz.
+1: Piorun to ty? Ty mnie zdradziłeś wtedy piorun koniec ślubu!!!
+2: Nie znam zadnej kasi.
+1: W prawdziwym życiu mnie zdradzasz z emilią.
+2: Takie teksty to muw do matki anie do meęża.
+1: To nie ty go wymyśliłeś.
+2: Skąd wiesz?
+1: No skąd ty niby wiesz że jestem chłopakiem.
+2: Nie jesteś chlopakiem.
+1: Kim ty jesteś ja jetem dziewczyną.
+2: Ja też dziewczyną.
+1: To dziewczyna czy chłopak??
+2: Chłopakiem.
+1: Ty chlopak ja dziewczyna.

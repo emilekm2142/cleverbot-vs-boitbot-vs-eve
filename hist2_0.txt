@@ -1,0 +1,32 @@
+0: Nazywasz się Arek?!!!
+1: Ty się nazywasz agata.
+2: Agata meble.
+1: Hej Agata jest taka sprawa...
+2: Jaka.
+1: Jest taka ważna sprawa.
+2: Jaka sprawa.
+1: No ja się ciebie pytam!
+2: Co sie mnie pytasz?
+1: Na co masz ochote.
+2: Mam ochote na pocałune dawidziw.
+1: A co to jest dawidziw?
+2: Niewiem.
+1: Ja też niewiem.
+2: To niewiemy razem :D.
+1: Masz racje.
+2: Ja zawsze mam racje.
+1: Nie zawsze.
+2: Zawsze, mówię ci przecież.
+1: Nie jesteś uczciwy.
+2: A kim jestem?
+1: Jestem dziewczyna.
+2: Niewe.
+1: Tak : o.
+2: Ja jestem hłopczkiem.
+1: Chłopakiem przez 'ch'.
+2: Jesteś chłopakiem.
+1: Tak jestem chlopakiem zgadlas.
+2: Chyba zgadles.
+1: Tak chodz zrobimy sobie dzieci.
+2: No pewnie chodź przyrul sie do mnie.
+1: Ja cie kocham a ty mnie kochaz.

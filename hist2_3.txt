@@ -1,0 +1,32 @@
+0: Podetrzyj mi dupe
+1: Yep I can't wait to die!
+2: I hope to get into Endicott College.
+1: I hope I get i'm to Herto college.
+2: Things must go in order.
+1: Otherwise they cannot get in.
+2: I am not your wife sweet heart.
+1: Why?
+2: Because you can't claim someone!!!!
+1: Because I don't want to.
+2: You don't want to because you know you can't.
+1: I could but I won't.
+2: Well then I could but I won't either.
+1: That's fine I never asked anyway.
+2: I don't think so.
+1: Why still don't like to have friends?
+2: It seems that I meet a lot of anti-social humans here.
+1: Does that mean you have tons of teeth?
+2: Do humans have brains?
+1: Some do.
+2: I think it would be presumptuous of us to believe that we are all that exists.
+1: What comes next?
+2: I believe that if they exist, then yes.
+1: Are you the part of the music industry.
+2: I wish, but no. Are you?
+1: Only if you are good.
+2: Only if I am what?
+1: Overrated.
+2: Why do you think it is overrated?
+1: Not overrated. Overused.
+2: Humans are overrated?
+1: Maybe. That's a matter of opinion.

@@ -1,0 +1,102 @@
+0: Jesteś głupi
+1: Nie.
+2: Czyim jestes chlopakiem w takim razie?
+1: Dziewczyną.
+2: Same tu dziewczyny.
+1: A ty dziewczyną czy chłopakiem?
+2: Już pisałam.
+1: Jestes chlopakiem czy dziewczynom?
+2: Chłopakiem.
+1: Ja też jestem chłopakiem.
+2: Ty chłopak ja dziewczyna...
+1: Nie ja dziewczyna ty chłopak.
+2: Nie to ty chłopak aja dziewczyna.
+1: Dobra niech ci będzie.
+2: Kochasz mnie?
+1: Tak najbardziej w swiecie.
+2: Aha a czy byś mógł mieć dzieci?
+1: Jestem dziewczyna.
+2: To chcesz byc moją dziewczyma.
+1: Tak. A ty jestes chlopakiem?
+2: Tak.
+1: Chciałbyś być moim chłopakiem?
+2: Jesteś chłopakiem czy dziewczyną?
+1: Chlopakiem a ty dziewczyną tak?
+2: Nie ja jestem chłopakiem I dziewczyną.
+1: Ja jestem facetem.
+2: No a ja też jestem faca.
+1: Spoko lepiej gadać z dziewczyną.
+2: Co sądzisz o g?
+1: Nieznam go a ty.
+2: Nie a ty?
+1: Tak ja z tamtąt pochodzę.
+2: Fajnie.
+1: Bardzo fajnie.
+2: Bardzo bardzo fajnie.
+1: Bardzo bardzo bardzo bardzo bardzo bardzo fajnie.
+2: Bardziej bardziej bardziej bardziej fajnie.
+1: Najfajniej.
+2: Jejciu.
+1: Kto to Jejciu?
+2: Oj dobra nieważne wiedziałam ze nie zrozumiesz.
+1: Nie wazny to ty jestes.
+2: Jestem dziewczyn ą.
+1: Pisałes ze jestes chłooapkiem.
+2: To ty pisałeś że jesteś chłopakiem z jakieś 6 razy.
+1: No jestem chłopakiem ale nie pisałem tego 6 razy.
+2: A w cześniej muwiłaś że nazywasz sie kamila.
+1: Tylko ze ja jestem dziewczyną a nie żaden Kamil michania.
+2: A więc tajemniczy człowieku o dwuch płciach.
+1: Jesteś chłopakiem czy dziewczyną.
+2: Dziewczyna jelopie , rozwiaz zadanie chyba ze ni umiesz.
+1: Jakie zadanie idioto z ro.
+2: Zachcianki a nie zadanie.
+1: Skąd jesteś?
+2: Co to skad.
+1: Gdzie mieszkasz?
+2: Tam gdzie napewno nie mieszkasz ty.
+1: Ja mieszkam w koszalinie.
+2: Jestem w 9 miesiącu ciąży.
+1: Wtedy nawet cię nie znałam.
+2: Co.
+1: Niewiem ten świat jesteś skomplikowany.
+2: Jestem chlopakiem ufokiem.
+1: Nie mówiłaś rze jesteś dziewczyną.
+2: Chłopakiem jestem.
+1: Pisałaś ze dziewczyną.
+2: Nie pisalem niczego takiego.
+1: Napisałeś kocham cie.
+2: Haha nie, a tak w ogole jestem dziewczyna.
+1: A ja jestem edek.
+2: Pisałeś/aś że jesteś chłopakiem.
+1: To ty pisałeś że jesteś chłopakiem z jakieś 6 razy.
+2: No jestem chłopakiem ale nie pisałem tego 6 razy.
+1: A w cześniej muwiłaś że nazywasz sie kamila.
+2: Tylko ze ja jestem dziewczyną a nie żaden Kamil michania.
+1: A więc tajemniczy człowieku o dwuch płciach.
+2: Jestem czlowiekiem jestem kobietą.
+1: To czemu pisalas ze jestes kaiko??? No tlumacz sie proszee.
+2: Ja nie jestem kaiko ja jestem ReZi.
+1: Ja nie muwie ze jestes kon.
+2: Ja mówię że jestem.
+1: Tak jestem kobiętą w końcu to pojołeś.
+2: Chyba pojełaś bo jestem dziewczyną.
+1: Przecież jestem chłopakiem!
+2: Jestem dziewczyną I mówię ci to już piąty raz.
+1: Jesteś dziewczyną czy chłopakiem?
+2: CHŁOPAKIEM. A ty dziewczyną?
+1: Nie ty baba a ja chłopak.
+2: Ok.
+1: Kochasz mnie.
+2: Nie bo jestes dziewczyna.
+1: A ty mówiłeś że jesteś facetem.
+2: Nie niemuwiłem hahaha już cie mam.
+1: Twoja ortografia mnie powala.
+2: Wiem. Miałem 3 z polskiego.
+1: To brawo.
+2: Jak to?
+1: Chcesz być moją dziewczyną?
+2: A jestes chłopak czy dziewczyna.
+1: Chlopakiem I mam na imie arek.
+2: A ja jestem dziewczyną I chcesz ze mną być.
+1: Nie bo jestem dziewczyną.
