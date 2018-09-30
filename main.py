@@ -122,14 +122,14 @@ randy = [
     "Kocham cię",
     "Nazywasz się Arek?!!!",
     "Gdzie mieszkasz kochanie?",
-    "Podetrzyj mi dupe",
+    "Tak się żyje na tej wsi",
     "Podetrzyj mi nos",
     "Tylko mirko",
     "Jeseem filozofem",
     "Jestem studentem prawa",
     "Wiesz, że jestem studentem prawa?",
-    "Jesteś żydem",
-    "Zjedź kurczaka i tyle chińczyku murzyński",
+    "thinking emoji",
+    "Zjedź kurczaka i tyle",
 ]
 for i in range(10):
     clever =Existor("evie")
